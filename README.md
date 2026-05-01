@@ -12,7 +12,7 @@ Welcome to **LearnToday**, a comprehensive platform designed for students, teach
 ---
 
 ### 🖥️ **Live Site URL**
-[Visit LearnToday Live](https://online-learning-df6bc.web.app/)
+https://learntoday02.netlify.app/
 
 ---
 
@@ -69,35 +69,5 @@ Welcome to **LearnToday**, a comprehensive platform designed for students, teach
 
 ---
 
-## 🏗️ **How to Run the Project Locally**
-Follow these steps to set up and run the project on your local machine:
 
-1. **Clone the Repository**
-   ```sh
-   git clone https://github.com/JHSiam/Learn-Today.git
-   ```
-
-2. **Navigate to the Project Directory**
-   ```sh
-   cd Learn-Today
-   ```
-
-3. **Install Dependencies**
-   ```sh
-   npm install
-   ```
-
-4. **Set Up Environment Variables**
-   - Create a `.env` file in the root directory.
-   - Add necessary environment variables (such as Firebase credentials, MongoDB URI, etc.).
-
-5. **Start the Development Server**
-   ```sh
-   npm start
-   ```
-
-6. **Access the Application**
-   - Open your browser and go to `http://localhost:3000/`.
-
-Now, you should be able to explore and test **LearnToday** locally! 🚀
 
